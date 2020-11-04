@@ -11,6 +11,6 @@
     <title>Hello World!</title>
   </head>
   <body>
-    <p>feature branch</p>
+    <p>Branch Merge</p>
   </body>
 </html>
