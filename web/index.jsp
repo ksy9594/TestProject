@@ -12,5 +12,6 @@
   </head>
   <body>
     <p>feature branch</p>
+    <p>master branch</p>
   </body>
 </html>
