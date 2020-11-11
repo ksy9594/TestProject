@@ -16,6 +16,10 @@
     <p>git checkout feature</p>
     <p>hello world!</p>
 
+    <div>
+      <p>merge test</p>
+    </div>
+
 
   </body>
 </html>
