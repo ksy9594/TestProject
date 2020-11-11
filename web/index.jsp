@@ -12,14 +12,12 @@
   </head>
   <body>
 
-    <p>Branch Merge1234</p>
-    <p>git checkout feature</p>
+    <p>Branch Merge</p>
     <p>hello world!</p>
 
     <div>
-      <p>merge test</p>
+      <p>feature branch - master beanch merge</p>
     </div>
-
 
   </body>
 </html>
