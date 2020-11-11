@@ -11,16 +11,6 @@
     <title>Hello World!</title>
   </head>
   <body>
-<<<<<<< HEAD
     <p>feature branch</p>
-    <p>master branch</p>
-=======
-
-    <p>Branch Merge1234</p>
-    <p>git checkout feature</p>
-    <p>hello world!</p>
-
-
->>>>>>> feature
   </body>
 </html>
